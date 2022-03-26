@@ -1,0 +1,16 @@
+{
+  "name" : "PCA9685",
+  "title": "PCA9685 Servo driver",
+  "keywords": "PCA9685,servo,pca,Servo, PrinceBot",
+  "description": "The Adafruit PWM/Servo Driver is the perfect solution for any project that requires a lot of servos.",
+  "git": "https://github.com/PrinceBot-Ratthanin/PCA9685/",
+  "author": "adafruit | Block by PrinceBot",
+  "email": "Print081@gmail.com",
+  "url": "https://github.com/PrinceBot-Ratthanin/PCA9685/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "MIT",
+  "image" : "/static/PWM_Servo.jpg",
+  "homepage": "https://learn.adafruit.com/16-channel-pwm-servo-driver/overview/"
+}
